@@ -2,10 +2,10 @@
 
 This is my first GitHub repository.
 
-## Geting Started
+## Getting Started
 
-Clone the repo and run the code lokally.
+Clone the repo and run the code locally.
 
 ## Contributing
 
-Pull requets welcome!
+Pull requests welcome!
